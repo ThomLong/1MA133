@@ -20,10 +20,10 @@ disp("We can substitute the coordinates of the origin (0, 0, 0) to find d");
 disp("0 + 0 + 6(0) + d = 0");
 disp("d = 0");
 disp("----------------");
-disp("P1 = (6.6, z1)")
+disp("P1 = (6, 6, z1)")
 disp("P2 = (6, -6, z2)");
 disp("P3 = (-6, -6, z3)");
-disp("P4 = (-6.6, z4)");
+disp("P4 = (-6, 6, z4)");
 disp("----------------");
 % Unknowns
 
